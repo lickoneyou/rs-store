@@ -1,0 +1,7 @@
+.card-text::before {
+  content: "$";
+}
+
+.stock, .breadCrumbs {
+  display: flex;
+}
